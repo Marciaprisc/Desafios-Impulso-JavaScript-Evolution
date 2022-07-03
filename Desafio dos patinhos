@@ -1,0 +1,10 @@
+let n=parseInt(gets());
+while (n!= -1) {
+if (n>1)
+print(n-1)
+else
+print(n=0)
+n=parseInt(gets());
+}
+
+//Não esqueça de me seguir 
